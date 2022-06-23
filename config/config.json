@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "SEU_LOGIN",
+        "password": "SUA_SENHA!",
+        "database": "graphql",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
